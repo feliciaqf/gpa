@@ -2,6 +2,7 @@
   "name": "gpa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://feliciaqf.github.io/gp/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
